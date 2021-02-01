@@ -5,9 +5,14 @@
 ```
 map
 filter
-radius
+reduce
+join
+split
 concat
 slice
+Object.keys
+Object.values
+Object.entries
 ```
 ## react
 
