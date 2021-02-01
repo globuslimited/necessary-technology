@@ -1,6 +1,6 @@
 # 必要的技术
 
-## js
+## JS Array and Object essential methods
 
 ```
 map
@@ -14,7 +14,7 @@ Object.keys
 Object.values
 Object.entries
 ```
-## react
+## React 
 
 ```
 memo
@@ -26,7 +26,7 @@ useMemo
 useRef
 ```
 
-## packages
+## Libraries
 
 ```
 immer
