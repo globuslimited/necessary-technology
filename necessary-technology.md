@@ -5,6 +5,7 @@
 ```
 async/await
 Promise
+Promise.all
 map
 filter
 reduce
@@ -35,6 +36,6 @@ immer
 react-query
 styled-components
 antd
-react-router-dom
+react-router
 axios
 ```
