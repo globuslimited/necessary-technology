@@ -3,6 +3,8 @@
 ## JS Array and Object essential methods
 
 ```
+async/await
+Promise
 map
 filter
 reduce
