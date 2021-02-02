@@ -1,6 +1,6 @@
 # 必要的技术
 
-## JS Array and Object essential methods
+## JS
 
 ```
 async/await
