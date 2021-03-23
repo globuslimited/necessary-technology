@@ -34,7 +34,7 @@ useRef
 ```
 immer
 react-query
-styled-components
+emotion
 antd
 react-router
 axios
