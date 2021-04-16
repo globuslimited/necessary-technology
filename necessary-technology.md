@@ -1,8 +1,9 @@
 # 必要的技术
 
-## JS
+## Language features
 
 ```
+Typescript
 async/await
 Promise
 Promise.all
@@ -34,6 +35,7 @@ useRef
 ```
 immer
 react-query
+recoil
 emotion
 antd
 react-router
